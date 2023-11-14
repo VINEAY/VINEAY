@@ -1,10 +1,5 @@
 ### Hola Amigos! 👋
 
-<!--
-**VINEAY/VINEAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Data Science 
 - 🌱 I’m currently learning Data Science & Artificial Intelligence
 - 👯 I’m looking to collaborate On this Account
@@ -12,7 +7,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Data Science
 - 📫 How to reach me: vineayy@gmail.com  
 - 😄 Pronouns: He/Him
--->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vineayyadav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinay-yadav-781389179/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/vineayy/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Vineay/pens/public) 
