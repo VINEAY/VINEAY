@@ -1,3 +1,6 @@
+<img src="https://drive.google.com/file/d/1PPP29ou4RIQ_EJ-X0ay7QeUk_UV8Hx-c/view?usp=sharing" alt="Github Banner" width="100%" />
+
+
 <h1 align="center">Hi 👋, I'm Vinay Yadav</h1>
 <h3 align="center">A passionate FullStack developer, AI Enthusiast and AI Developer</h3>
 
