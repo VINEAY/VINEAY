@@ -1,4 +1,5 @@
-<img src="https://drive.google.com/file/d/1PPP29ou4RIQ_EJ-X0ay7QeUk_UV8Hx-c/view?usp=sharing" alt="Github Banner" width="100%" />
+<img src="![Black and Yellow Web Developer LinkedIn Banner](https://github.com/user-attachments/assets/23e977a3-415b-454f-85f4-dc16cb5c0e1b)
+" alt="Github Banner" width="100%" />
 
 
 <h1 align="center">Hi 👋, I'm Vinay Yadav</h1>
